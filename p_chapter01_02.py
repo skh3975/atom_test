@@ -16,5 +16,3 @@ print('Current Date Time in IST =', datetime.now(ist))
 
 # 타입 확인
 print(type(ist))
-
-print(type(ist))
